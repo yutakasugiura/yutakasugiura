@@ -6,9 +6,9 @@
 ## Be Familier With...
 
  - Domain Expert
-    - Accounting 💰
-    - Payment 
-    - Credit & Bills 💰
+    - Accounting (会計) 💰
+    - Payment (決済) 💸
+    - Credit & Bills (与信・債権) 💰
  - Large Scale Web Applications 📱
  - Management Small Tech Team 🐬
 
