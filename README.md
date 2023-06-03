@@ -14,13 +14,12 @@
 
 ## Technical Skills
 
- - If necessary, I acquire all. 🧑‍💻
- - Well understood
-    - Design APIs (OepnAPI)
-    - Image Optimization (CDN) 
-    - Batch Processing (Scalable)
-    - php8.x
-    - Monitoring (NewRelic)
+ - If necessary, well understood 🧑‍💻
+   - Design APIs (OepnAPI)
+   - Image Optimization (CDN) 
+   - Batch Processing (Scalable)
+   - php8.x
+   - Monitoring (NewRelic)
 
 ## My Toys
 
