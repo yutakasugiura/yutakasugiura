@@ -1,4 +1,4 @@
-## Yutaka Sugiura
+## Yutaka Sugiura　
 
  - Software Engineer, Tokyo
  - My career is STEALTH.
