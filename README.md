@@ -5,14 +5,10 @@
 
 ## Be Familier With...
 
- - Creating Accounting System, 0 to 1.
- - Creating Payment System, 0 to 10.
- - Processing Large Scale Web Applications
-    - Batch Processing
-    - Send Mail Processing
-    - Log monitoring
- - Project Team Managing
-
+ - Accounting
+ - Payment
+ - Large scall web applications
+ - Management Project Team
 
 ## Technical Skills
 
