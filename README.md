@@ -14,3 +14,7 @@
 ## Technical Skills
 
  - If necessary, I acquire all. 🧑‍💻
+
+## My Toys
+
+ - <a href="https://the-shashi.com">the-shashi.com</a>
