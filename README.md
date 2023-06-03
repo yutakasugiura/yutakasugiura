@@ -5,11 +5,11 @@
 
 ## Be Familier With...
 
- - Domain Expert
+ - Domain Expert (web)
     - Accounting (会計) 💰
     - Payment (決済) 💸
     - Credit & Bills (与信・請求) 💰
- - Large Scale Web Applications Related Financials 📱
+ - Large Scale Web Applications 📱
  - Management Small Tech Team 🐬
 
 ## Technical Skills
