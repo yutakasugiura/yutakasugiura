@@ -16,8 +16,9 @@
 
  - If necessary, I acquire all. 🧑‍💻
  - Well Known
-    - CDN (Image Optimization)
-    - Batch (Processing Scale)
+ 　　　　　　- Design APIs (OepnAPI)
+    - Image Optimization (CDN)
+    - Batch Processing (Scalable)
     - php8.x
     - Monitoring (NewRelic)
 
