@@ -22,5 +22,5 @@
 
 ## My Toys
 
- - <a href="https://the-shashi.com">the-shashi.com</a>
- 　　　 - Created by Nuxt.js on AWS S3.
+ - the-shashi.com
+ 　　　 - Nuxt.js on AWS S3.
