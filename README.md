@@ -15,7 +15,7 @@
 ## Technical Skills
 
  - If necessary, I acquire all. 🧑‍💻
- - Well Known
+ - Well understood
     - Design APIs (OepnAPI)
     - Image Optimization (CDN)
     - Batch Processing (Scalable)
