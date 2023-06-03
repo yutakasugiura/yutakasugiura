@@ -8,7 +8,7 @@
  - Accounting 💰
  - Payment 💰
  - Large Scale Web Applications 📱
- - Management Project Tech Team 🐬
+ - Small Tech Team Management 🐬
 
 ## Technical Skills
 
