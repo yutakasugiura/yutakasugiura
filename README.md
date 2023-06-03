@@ -7,7 +7,7 @@
 
  - Accounting
  - Payment
- - Large scall web applications
+ - Large Scale Web Applications
  - Management Project Team
 
 ## Technical Skills
