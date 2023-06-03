@@ -23,4 +23,4 @@
 ## My Toys
 
  - the-shashi.com
- 　　　 - Nuxt.js on AWS S3.
+   - Nuxt.js on AWS S3.
