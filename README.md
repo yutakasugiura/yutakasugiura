@@ -17,12 +17,12 @@
  - If necessary, I acquire all. 🧑‍💻
  - Well understood
     - Design APIs (OepnAPI)
-    - Image Optimization (CDN)
+    - Image Optimization (CDN) 
     - Batch Processing (Scalable)
     - php8.x
     - Monitoring (NewRelic)
 
 ## My Toys
 
- - the-shashi.com
-   - Nuxt.js on AWS S3.
+ - the-shashi.com ⛏️
+   - Nuxt.js on AWS S3
