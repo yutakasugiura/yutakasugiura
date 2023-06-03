@@ -9,7 +9,7 @@
     - Accounting (会計) 💰
     - Payment (決済) 💸
     - Credit & Bills (与信・債権) 💰
- - Large Scale Web Applications 📱
+ - Large Scale Web Applications Related Financials 📱
  - Management Small Tech Team 🐬
 
 ## Technical Skills
