@@ -5,7 +5,7 @@
 
 ## Be Familier With...
 
- - Domain Expert of System
+ - Domain Expert
     - Accounting 💰
     - Payment & Bills 💰
  - Large Scale Web Applications 📱
@@ -14,7 +14,13 @@
 ## Technical Skills
 
  - If necessary, I acquire all. 🧑‍💻
+ - Well Known
+    - CDN (Image Optimization)
+    - Batch (Processing Scale)
+    - php8.x
+    - Monitoring (NewRelic)
 
 ## My Toys
 
  - <a href="https://the-shashi.com">the-shashi.com</a>
+ 　　　- Created by Nuxt.js on AWS S3.
