@@ -5,8 +5,9 @@
 
 ## Be Familier With...
 
- - Accounting 💰
- - Payment 💰
+ - Domain Expert of System
+    - Accounting 💰
+    - Payment & Bills 💰
  - Large Scale Web Applications 📱
  - Management Small Tech Team 🐬
 
