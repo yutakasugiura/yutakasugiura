@@ -16,7 +16,7 @@
 
  - If necessary, I acquire all. 🧑‍💻
  - Well Known
- 　　　　　　- Design APIs (OepnAPI)
+    - Design APIs (OepnAPI)
     - Image Optimization (CDN)
     - Batch Processing (Scalable)
     - php8.x
