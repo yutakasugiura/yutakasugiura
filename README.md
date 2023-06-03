@@ -5,10 +5,12 @@
 
 ## Be Familier With...
 
- - Accounting System
- - Payment System
- - Large Scale Backend Processing
+ - Creating Accounting System
+ - Creating Payment System
+ - Processing Large Scale Web Applications
+    - Batch Processing
+    - Send Mail Processing
 
 ## Technical Skills
 
- - if necessary, all.
+ - If necessary, I acquire all.
