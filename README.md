@@ -7,7 +7,8 @@
 
  - Domain Expert
     - Accounting 💰
-    - Payment & Bills 💰
+    - Payment 
+    - Credit & Bills 💰
  - Large Scale Web Applications 📱
  - Management Small Tech Team 🐬
 
