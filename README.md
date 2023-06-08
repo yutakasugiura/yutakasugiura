@@ -2,4 +2,4 @@
 
  - Software Engineer, Tokyo
  - Career: STEALTH
- - Hobby: the-shashi.com
+ - Hobby: <a href="https://the-shashi.com">the-shashi.com</a>
