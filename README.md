@@ -1,6 +1,6 @@
 ## Hi There.
 
- - Software Engineer
+ - backend
  - lang:ja
  - Career: STEALTH
  - Hobby: the-shashi.com, Nuxt.js
