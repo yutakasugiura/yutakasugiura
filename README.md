@@ -4,6 +4,7 @@
 {
    "role": "backend",
    "lang": "ja",
-   "career": "STEALTH"
+   "career": "STEALTH",
+   "hobby": "the-shashi.com. 900 IN SOA ns-159.awsdns-19.com. awsdns-hostmaster.amazon.com."
 }
 ```
