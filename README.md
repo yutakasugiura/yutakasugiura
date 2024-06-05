@@ -1,6 +1,9 @@
 ## Hi There.
 
- - backend
- - lang:ja
- - Career: STEALTH
- - Hobby: the-shashi.com, Nuxt.js
+```json
+{
+   "role": "backend",
+   "lang": "ja",
+   "career": "STEALTH"
+}
+```
